@@ -4,8 +4,8 @@
 #include <WebSocketsServer.h>
 
 // ========= WiFi =========
-const char* ssid     = "Psalm23";
-const char* password = "ichbinmicH2*";
+const char* ssid     = "WIFI";
+const char* password = "WIFI-Password";
 
 // ========= Camera Model (AI-Thinker) =========
 #define CAMERA_MODEL_AI_THINKER
